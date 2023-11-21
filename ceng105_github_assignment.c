@@ -6,6 +6,8 @@ int main (){
     scanf("%d" , &num1);
      printf("enter second number:");
 scanf("%d" , &num2);
+printf("yes");
+
     return 0;
 
 
