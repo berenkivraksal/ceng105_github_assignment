@@ -2,9 +2,9 @@
 int main (){
     int num1;
     int num2;
-    printf("enter first number:");
+    printf("Enter the first number:");
     scanf("%d" , &num1);
-     printf("enter second number:");
+     printf("Enter the second number:");
 scanf("%d" , &num2);
 printf("yes");
 
